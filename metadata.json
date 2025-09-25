@@ -1,0 +1,5 @@
+{
+  "name": "Stakeholder Feedback Analysis",
+  "description": "An AI-powered application to analyze stakeholder feedback from CSV files. It provides sentiment analysis, summarization, and key theme extraction to help government officers quickly understand public opinion.",
+  "requestFramePermissions": []
+}
